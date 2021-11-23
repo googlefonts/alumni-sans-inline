@@ -1,7 +1,9 @@
 {
 .appVersion = "1352";
 DisplayStrings = (
-"/.notdef"
+"/.notdef",
+abcdefghijklmnopqrstuvwxyz,
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
 );
 classes = (
 {
@@ -10,7 +12,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2014 The Alumni Sans Collegiate Project Authors (https://github.com/googlefonts/allumini-sans-collegiate)";
+copyright = "Copyright 2014 The Alumni Sans Inline Project Authors (https://github.com/googlefonts/allumini-sans-inline)";
 customParameters = (
 {
 name = licenseURL;
@@ -141,13 +143,13 @@ name = ss03;
 fontMaster = (
 {
 alignmentZones = (
-"{824, 20}",
-"{591, 5}",
-"{495, 5}",
-"{0, -5}",
-"{-302, 20}"
+"{630, 15}",
+"{591, 10}",
+"{495, 10}",
+"{0, -10}",
+"{-110, -10}"
 );
-ascender = 824;
+ascender = 630;
 capHeight = 591;
 customParameters = (
 {
@@ -215,7 +217,7 @@ value = (
 );
 }
 );
-descender = -302;
+descender = -110;
 guideLines = (
 {
 locked = 1;
@@ -257,13 +259,13 @@ xHeight = 495;
 },
 {
 alignmentZones = (
-"{824, 20}",
-"{591, 5}",
-"{495, 5}",
-"{0, -5}",
-"{-302, 20}"
+"{630, 15}",
+"{591, 10}",
+"{495, 10}",
+"{0, -10}",
+"{-110, -10}"
 );
-ascender = 824;
+ascender = 630;
 capHeight = 591;
 custom = Italic;
 customParameters = (
@@ -332,7 +334,7 @@ value = (
 );
 }
 );
-descender = -302;
+descender = -110;
 id = "DE28931B-8CFB-452E-AAB2-BC9BAE33C973";
 italicAngle = 8;
 weightValue = 400;
