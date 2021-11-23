@@ -146,7 +146,7 @@ alignmentZones = (
 "{630, 15}",
 "{591, 10}",
 "{495, 10}",
-"{0, -10}",
+"{0, -15}",
 "{-110, -10}"
 );
 ascender = 630;
@@ -154,31 +154,35 @@ capHeight = 591;
 customParameters = (
 {
 name = typoAscender;
-value = 824;
+value = 900;
 },
 {
 name = typoDescender;
-value = -302;
+value = -300;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 824;
-},
-{
-name = winDescent;
-value = 302;
-},
-{
 name = hheaAscender;
-value = 824;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -302;
+value = -300;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 940;
+},
+{
+name = winDescent;
+value = -305;
 },
 {
 name = strikeoutPosition;
@@ -262,7 +266,7 @@ alignmentZones = (
 "{630, 15}",
 "{591, 10}",
 "{495, 10}",
-"{0, -10}",
+"{0, -15}",
 "{-110, -10}"
 );
 ascender = 630;
@@ -271,31 +275,35 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 824;
+value = 900;
 },
 {
 name = typoDescender;
-value = -302;
+value = -300;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 824;
-},
-{
-name = winDescent;
-value = 302;
-},
-{
 name = hheaAscender;
-value = 824;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -302;
+value = -300;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 940;
+},
+{
+name = winDescent;
+value = -305;
 },
 {
 name = strikeoutPosition;
