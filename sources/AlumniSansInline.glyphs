@@ -20,7 +20,9 @@ Y,
 "/peseta",
 "æ",
 "/oe",
-e
+e,
+"/zero.lf/four.lf",
+A
 );
 classes = (
 {
