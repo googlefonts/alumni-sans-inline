@@ -4768,7 +4768,7 @@ unicode = 004B;
 },
 {
 glyphname = Kcommaaccent;
-lastChange = "2021-11-26 10:22:00 +0000";
+lastChange = "2021-11-26 10:49:42 +0000";
 layers = (
 {
 background = {
@@ -4788,7 +4788,7 @@ name = K;
 },
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 111, 0}";
+transform = "{1, 0, 0, 1, 148, 0}";
 }
 );
 layerId = "DE28931B-8CFB-452E-AAB2-BC9BAE33C973";
@@ -7001,7 +7001,7 @@ unicode = 00D8;
 },
 {
 glyphname = Oslashacute;
-lastChange = "2021-11-26 10:22:00 +0000";
+lastChange = "2021-11-26 10:49:34 +0000";
 layers = (
 {
 background = {
@@ -7021,7 +7021,7 @@ name = Oslash;
 },
 {
 name = acutecomb.case;
-transform = "{1, 0, 0, 1, 179, 0}";
+transform = "{1, 0, 0, 1, 129, 0}";
 }
 );
 layerId = "DE28931B-8CFB-452E-AAB2-BC9BAE33C973";
@@ -12165,7 +12165,7 @@ unicode = 00E3;
 },
 {
 glyphname = ae;
-lastChange = "2021-11-26 10:44:26 +0000";
+lastChange = "2021-11-26 10:49:52 +0000";
 layers = (
 {
 anchors = (
@@ -12499,7 +12499,7 @@ nodes = (
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01247 5 14 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\0126 14 47 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01214 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01210 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 3 values pushed */\01231 14 47 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01248 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01248 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01267 5 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01259 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01259 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\012116 14 47 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\01228 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\01228 11 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\01232 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\01232 11 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\01235 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\01235 11 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\0129 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\0129 7 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\01217 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\01217 7 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\0126 7 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01256 1 \012MIRP[10100]	/* MoveIndirectRelPt */\012NPUSHW[ ]	/* 15 values pushed */\0127 56 23 56 39 56 55 56 71 56 87 56 103 56 7 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 5 values pushed */\012118 56 134 56 2 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 3 values pushed */\01214 17 56 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01232 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01264 1 \012MIRP[10100]	/* MoveIndirectRelPt */\012NPUSHW[ ]	/* 5 values pushed */\012121 64 137 64 2 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 15 values pushed */\0128 64 24 64 40 64 56 64 72 64 88 64 104 64 7 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 3 values pushed */\01282 17 56 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\01293 6 35 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\012116 17 56 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\012127 6 35 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\012135 32 64 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\012149 17 56 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 567;
+width = 568;
 }
 );
 leftKerningGroup = a;
@@ -12511,7 +12511,7 @@ unicode = 00E6;
 },
 {
 glyphname = aeacute;
-lastChange = "2021-11-26 10:24:25 +0000";
+lastChange = "2021-11-26 10:49:58 +0000";
 layers = (
 {
 background = {
@@ -12535,7 +12535,7 @@ transform = "{1, 0, 0, 1, 230, -1}";
 }
 );
 layerId = "DE28931B-8CFB-452E-AAB2-BC9BAE33C973";
-width = 567;
+width = 568;
 }
 );
 unicode = 01FD;
