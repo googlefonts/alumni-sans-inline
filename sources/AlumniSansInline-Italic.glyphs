@@ -12,7 +12,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2014 The Alumni Sans Inline Project Authors (https://github.com/googlefonts/allumini-sans-inline)";
+copyright = "Copyright 2014 The Alumni Sans Inline Project Authors (https://github.com/googlefonts/alumni-sans-inline)";
 customParameters = (
 {
 name = licenseURL;
@@ -49527,5 +49527,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
