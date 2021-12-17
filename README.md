@@ -1,6 +1,6 @@
 # Alumni Sans Inline
 
-Alumni Inline is a stand alone font from its base font, Alumni Sans (a variable font). Inline is a black weight designed to be used as a display font above 72pt in print (assuming 300 dpi) and above 72px in digital media. 
+Alumni Inline is a stand alone font from its base font, Alumni Sans (a variable font). Inline is a black weight designed to be used as a display font above 32pt in print (assuming 300 dpi) and above 72px in digital media. 
 
 In situations that require large text, use it in combination with the Alumni Sans base design.
 
