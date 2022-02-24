@@ -52,7 +52,7 @@ value = 1;
 date = "2021-11-23 01:28:02 +0000";
 designer = "Robert E. Leuschke";
 designerURL = www.typesetit.com;
-familyName = "Alumni Sans Inline";
+familyName = "Alumni Sans Inline One";
 featurePrefixes = (
 {
 automatic = 1;
@@ -61600,5 +61600,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 10;
+versionMinor = 100;
 }
